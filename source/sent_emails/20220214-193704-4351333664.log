@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: habephe21@gmail.com
+Date: Mon, 14 Feb 2022 19:37:04 -0000
+Message-ID: <164486742491.1952.4049927641305491230@97.43.168.192.in-addr.arpa>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/password-reset-confirm/MTQ/%20b0up5s-b6a9abd3ff595dd4a47b7f86c882185c/
+
+Your username, in case you’ve forgotten: TaofeekOlawoye
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

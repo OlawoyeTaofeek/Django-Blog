@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: habephe21@gmail.com
+Date: Mon, 14 Feb 2022 19:33:47 -0000
+Message-ID: <164486722706.1896.9233034796817246878@97.43.168.192.in-addr.arpa>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/password-reset-confirm/Ng/%20b0up0b-0b1a93304afb27127ad27f4c85e1c1d4/
+
+Your username, in case you’ve forgotten: Olaide
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
